@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jdshupe/BDYF#readme",
   "dependencies": {
-    "bootstrap": "^5.1.0"
+    "bulma": "^0.9.3"
   }
 }

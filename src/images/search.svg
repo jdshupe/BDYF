@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  height="300"
+  width="300">
+
+  <circle cx="75" cy="75" r="75" fill="whitesmoke"/>
+  <rect width="200" height="20" x="75" y="215" transform="rotate(45,225,225)" fill="whitesmoke"/>
+  <circle cx="75" cy="75" r="65"/>
+  
+</svg>
