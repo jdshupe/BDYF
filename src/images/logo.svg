@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 160 40 V 120 L 80 40 V 120" fill="transparent" stroke="black" stroke-width="3"/>
+  <path d="M 80 80 H 160" fill="transparent" stroke="black" stroke-width="3"/>
+  <path d="M 120 80 V 120" fill="transparent" stroke="black" stroke-width="3"/>
+  <circle cx="80" cy="120" r="40" fill="transparent" stroke="black" stroke-width="3"/>
+</svg>
+</svg>
